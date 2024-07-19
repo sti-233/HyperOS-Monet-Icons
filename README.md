@@ -15,7 +15,7 @@
 
 ## - 文件来源
 
-- 此项目删除了[其](https://t.me/monetproject/142)中的**所有**文件<br/>
+- 此项目删除了[其](https://t.me/monetproject/142)中的** *所有图标文件* **<br/>
 - 使用 [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) 的图标替换(一些可能会来自于应用本身)
 
 ## - 项目方案
