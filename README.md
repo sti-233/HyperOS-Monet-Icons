@@ -7,15 +7,15 @@
 
 </div>
 
-此项目基于[MIUI Monet Icons v1.0.0](https://t.me/monetproject/142)</r>
-~~原计划基于[MIUI Monet Icons v2.0.0](https://t.me/monetproject/164)~~
+此项目基于[MIUI Monet Icons v1.0.0](https://t.me/monetproject/142)<br/>
+~~原计划基于[MIUI Monet Icons v2.0.0](https://t.me/monetproject/164)~~<br/>
 ~~但 Monet Icons 并不工作~~
 
-此项目删除了[其](https://t.me/monetproject/142)中的**所有**文件</r>
-并使用 [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) 的图标替换</r>
+此项目删除了[其](https://t.me/monetproject/142)中的**所有**文件<br/>
+并使用 [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) 的图标替换<br/>
 (一些可能会来自于应用本身)
 
 [方法](https://www.coolapk.com/feed/44022858)自酷安[@此用户名涉嫌违禁](http://www.coolapk.com/u/1422463)
 
-使用了[完美图标计划](https://github.com/pzcn/Perfect-Icons-APP)中的[遮罩文件](https://github.com/pzcn/Perfect-Icons-Completion-Project/blob/main/addition%2Ftransform_config2.xml)</r>
+使用了[完美图标计划](https://github.com/pzcn/Perfect-Icons-APP)中的[遮罩文件](https://github.com/pzcn/Perfect-Icons-Completion-Project/blob/main/addition%2Ftransform_config2.xml)<br/>
 来修复 HyperOS 上图标大小的问题
