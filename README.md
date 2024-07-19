@@ -32,3 +32,22 @@
 ```
 Mi11 Ultra 1.0.2.0 4.39.15.8280-07041845(439158280) bypass
 ```
+
+## - Icons
+
+- 暂有175图标 不比酷安其他图标包
+
+- Can't fix :
+```
+- Chrome
+- Edge
+- io Key At Testation
+- Lsposed
+- MoMo
+- NTManager
+- ONPatch
+- OPatch
+- Shizuku
+- TiktokCn
+- TiktokCnLite
+```
