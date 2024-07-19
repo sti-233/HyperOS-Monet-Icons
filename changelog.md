@@ -1,26 +1,12 @@
-# v4.0.9 - May 15, 2024
+# v4.1.5 - July 20, 2024
 
-## Highlights
+## Changelog
 
-- Added new icons
-- Fix icons' size
+- restore clash ver from 3.0.2 to 2.5.12
 
-## Failed
-
-- Shizuku
-- Opatch
-- Onpatch
-- MoMo
-- Lsposed
-- KeyAtTestation
-- Chrome
-- TiktokCN
-- TiktokCnLite
-
-## Other changes
-
-- Design improvements, updates & fixes 
-
----
-
-Made with ❤️sti & HyperOS Monet Project
+```
+id=HyperMonetIcons
+name=HyperOS Monet Icons (Preview)
+version=4.1.5-175
+versionCode=415000175
+```
