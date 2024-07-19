@@ -22,5 +22,5 @@
 
 - [方法](https://www.coolapk.com/feed/44022858)自酷安[@此用户名涉嫌违禁](http://www.coolapk.com/u/1422463)
 
-- 使用了[完美图标计划](https://github.com/pzcn/Perfect-Icons-APP)中的[遮罩文件](https://github.com/pzcn/Perfect-Icons-Completion-Project/blob/main/addition%2Ftransform_config2.xml)
+- 使用了[完美图标计划](https://github.com/pzcn/Perfect-Icons-APP)中的[遮罩文件](https://github.com/pzcn/Perfect-Icons-Completion-Project/blob/main/addition%2Ftransform_config2.xml)<br/>
 来修复 HyperOS 上图标大小的问题
