@@ -2,11 +2,21 @@
 
 ## Changelog
 
-- restore clash ver from 3.0.2 to 2.5.12
-
-```
-id=HyperMonetIcons
-name=HyperOS Monet Icons (Preview)
-version=4.1.5-175
-versionCode=415000175
-```
+### Add Icon
+- Google Authenticator
+- Freezer
+- Gloom
+- HQ ICON
+- MRepo
+- Marktor
+- Muisc Tag
+- Salt Player
+- Photoleap
+- Termux
+- 手机物理工坊
+- (Failed)斑朵
+### Fix
+- FanqieRead
+### Merge
+- support clash all version
+- support guise all version
